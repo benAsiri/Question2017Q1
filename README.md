@@ -6,10 +6,12 @@ This answer might be not right for you if you are not woring out by yourself. Pl
 
 Using the Java reflection API, write a method that:
 
-1.Takes a class name as a parameter.
-2.For each method, calculates the Depth of Inheritance Tree (DIT) metric for the
+1. Takes a class name as a parameter.
+
+2. For each method, calculates the Depth of Inheritance Tree (DIT) metric for the
 return type.
-3.Outputs the method whose return type has the highest DIT value.
+
+3. Outputs the method whose return type has the highest DIT value.
 Refer to the following method signatures as required:
 
 • java.lang.Class:
